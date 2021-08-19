@@ -3,3 +3,4 @@
 # 2-groups lists all groups current member is part of
 # 3-new_owner changes ownership of file
 # 4-empty will create a new file hello
+# 5-execute will add execute permission to owner
