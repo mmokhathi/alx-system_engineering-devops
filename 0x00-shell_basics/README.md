@@ -6,3 +6,4 @@
 # 5-listfilesdigitonly displays all contents in long format and wit GID and UID numerically
 # 6-firstdirectory creates a subdierctory
 # 7-movethatfile moves file between directories
+# 8-firstdelete deletes file from directory
