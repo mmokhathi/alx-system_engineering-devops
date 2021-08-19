@@ -1,3 +1,4 @@
 # 0-current_working_directory script prints current working directory
 # 1-listit script lists contents of current working directory
 # 2-bring_me_home switches to user's home directory
+# 3-listfiles displays contents in long format
