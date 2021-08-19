@@ -4,3 +4,4 @@
 # 3-listfiles displays contents in long format
 # 4-listmorefiles displays all contents including hidden files in long format
 # 5-listfilesdigitonly displays all contents in long format and wit GID and UID numerically
+# 6-firstdirectory creates a subdierctory
