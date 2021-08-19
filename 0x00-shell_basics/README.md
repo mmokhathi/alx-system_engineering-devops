@@ -12,3 +12,4 @@
 # 11-lists lists all files in working directory, parent, and other /boot directory
 # 12-file_type will print the file type
 # 13-symbolic_link will create a new symbolic link
+# 14-copy_html script will copy only the newer files to the destination
