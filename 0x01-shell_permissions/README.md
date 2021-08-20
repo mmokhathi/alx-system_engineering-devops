@@ -5,4 +5,3 @@
 # 4-empty will create a new file hello
 # 5-execute will add execute permission to owner
 # 6-multiple_permissions will give ,ultiple permissions
-# 7-everybody gives everyone permission to execute
