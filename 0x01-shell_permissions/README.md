@@ -10,3 +10,4 @@
 # 9-John_Doe will modify permissions to the file hello
 # 10-mirror_permissions will copy permissions of one file to another
 # 11-directories_permissions will change permissions to all subdirectories for user, group and others
+# 12-directory_permissions will create a directory with permissions
