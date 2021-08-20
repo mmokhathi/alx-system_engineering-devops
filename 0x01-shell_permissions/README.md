@@ -7,3 +7,4 @@
 # 6-multiple_permissions will give ,ultiple permissions
 # 7-everybody gives everyone permission to execute
 # 8-James_Bond gives all permissions exclusively to other users
+# 9-John_Doe will modify permissions to the file hello
