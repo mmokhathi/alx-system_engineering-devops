@@ -5,4 +5,3 @@
 # 4-lastlines will print the last 10 lines of /etc/passwd
 # 5-firstlines will print first 10 lines of /etc/passwd
 # 6-third_line will print the 3rd line
-# 7-file will create a file containing text
