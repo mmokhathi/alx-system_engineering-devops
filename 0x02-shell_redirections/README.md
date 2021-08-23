@@ -6,3 +6,4 @@
 # 5-firstlines will print first 10 lines of /etc/passwd
 # 6-third_line will print the 3rd line
 # 7-file will create a non-empty file'
+# 8-cwd_state will update ls_cwd_content
