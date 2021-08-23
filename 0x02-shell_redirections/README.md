@@ -4,4 +4,3 @@
 # 3-twofiles will print the contents of /etc/passwd and etc/hosts
 # 4-lastlines will print the last 10 lines of /etc/passwd
 # 5-firstlines will print first 10 lines of /etc/passwd
-# 6-third_line will print the third line of a file
