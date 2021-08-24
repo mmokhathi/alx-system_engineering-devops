@@ -7,3 +7,4 @@
 # 6-third_line will print the 3rd line
 # 7-file creates file containing text
 # 8-cwd_state will update ls_cwd_content
+# 9-duplicate_last_line duplicates the last line of the file iacta
